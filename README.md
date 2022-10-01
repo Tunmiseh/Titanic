@@ -15,6 +15,6 @@ Some of the column names includes:
 8. Sex
 
 ## Endnotes
-I was able to create a model that can classify a pnone into low cost(1), medium cost(2), high cost(3) and very high cost(4) based on the phone features
-i was also able to predict a class for the test.csv which doesn't have a target
+I was able to create a model that can predict if a passenger is going to survive or not based on some features
+i was also able to perform some predictions for the test.csv which doesn't have a target
 
